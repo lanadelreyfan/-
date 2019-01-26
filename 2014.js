@@ -14152,7 +14152,7 @@
     {
         "code": "us-va-029",
         "name": "Buckingham County, VA",
-        "value": 9.4.
+        "value": 9.4
     },
     {
         "code": "us-va-031",
