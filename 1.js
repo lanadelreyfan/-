@@ -2,7 +2,7 @@
     {
         "code": "us-al-001",
         "name": "Autauga County, AL",
-        "value": 4.5
+        "value": 9.5
     },
     {
         "code": "us-al-003",
