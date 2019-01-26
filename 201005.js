@@ -6057,7 +6057,7 @@
     {
         "code": "us-md-047",
         "name": "Worcester County, MD",
-        "value": 10.1
+        "value": 0.0
     },
     {
         "code": "us-md-510",
@@ -8852,7 +8852,7 @@
     {
         "code": "us-nj-001",
         "name": "Atlantic County, NJ",
-        "value": 10.6
+        "value": 0.0
     },
     {
         "code": "us-nj-003",
@@ -8872,7 +8872,7 @@
     {
         "code": "us-nj-009",
         "name": "Cape May County, NJ",
-        "value": 13.5
+        "value": 0.0
     },
     {
         "code": "us-nj-011",
@@ -10472,7 +10472,7 @@
     {
         "code": "us-oh-111",
         "name": "Monroe County, OH",
-        "value": 100
+        "value": 99.9
     },
     {
         "code": "us-oh-113",
@@ -15177,7 +15177,7 @@
     {
         "code": "us-wv-093",
         "name": "Tucker County, WV",
-        "value": 100
+        "value": 99.9
     },
     {
         "code": "us-wv-095",
