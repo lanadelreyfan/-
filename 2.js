@@ -14952,7 +14952,7 @@
     {
         "code": "us-wv-005",
         "name": "Boone County, WV",
-        "value": 10
+        "value": 44.4
     },
     {
         "code": "us-wv-007",
