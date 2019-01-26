@@ -11532,7 +11532,7 @@
     {
         "code": "us-pa-133",
         "name": "York County, PA",
-        "value": 230
+        "value": 23.0
     },
     {
         "code": "us-ri-001",
